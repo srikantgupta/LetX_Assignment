@@ -201,7 +201,7 @@ input[type=text]:focus {
 }
 .task-add-button {
   position: absolute;
-  bottom: 14px;
+  bottom: 2px;
   left: 41%;
 }
 .task-form > .task-add-button {
@@ -211,7 +211,7 @@ input[type=text]:focus {
   font-family: inherit;
   font-size: 16px !important;
   border: none;
-  padding: 10px;
+  padding: 5px;
   color: #ffffff;
   font-size: 2rem;
   background: orangered;
